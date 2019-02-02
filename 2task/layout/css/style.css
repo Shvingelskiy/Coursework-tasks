@@ -1,0 +1,31 @@
+body{
+  background: #F4E6E6;
+  display: flex;
+  flex-direction: column;
+}
+
+button{
+  margin-left: 110px;
+}
+
+main {
+  display: flex;
+  flex-direction: column;
+  height: 535px;
+  background: #F7EED4;
+}
+
+header, footer {
+  flex: 0 0 5em;
+  background-color: #D3F3A5;
+}
+
+p{
+  font-size: 18px;
+  font-weight: bold;
+}
+
+.row{
+  margin-top: 30px;
+}
+
